@@ -100,8 +100,8 @@ if __name__ == '__main__':
     app.run_server()
 
 
-1. KSC LC-39A has the most successful launches with 10
-2. KSC LC-39A has the best success rate for launches at 79%
-3. The ranges from 0-2k and 6-10k have the lowest success rates
-4. The range 2-6k has the highest success rate
-5. Booster B5 hasthe best success rate although only 1 launch has been performed
+#1. KSC LC-39A has the most successful launches with 10
+#2. KSC LC-39A has the best success rate for launches at 79%
+#3. The ranges from 0-2k and 6-10k have the lowest success rates
+#4. The range 2-6k has the highest success rate
+#5. Booster B5 has the best success rate although only 1 launch has been performed
